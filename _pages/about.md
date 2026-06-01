@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Dr. Fathima Shihana
 
 Welcome to my academic portfolio website.
 
