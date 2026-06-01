@@ -23,9 +23,9 @@ repository : "fathimashihana/fathimashihana.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr Fathima Shihana"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Scientist"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
