@@ -4,11 +4,7 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-<div class="presentations-page">
 
-... all presentations here ...
-
-</div>
 ## 2022
 
 ### Poster Presentations
