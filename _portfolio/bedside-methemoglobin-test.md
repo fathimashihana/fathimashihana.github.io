@@ -6,9 +6,11 @@ excerpt: "Development of a low-cost bedside diagnostic tool for methemoglobinemi
 ---
 
 ## Overview
+
 Developed and validated a simple bedside colour chart for measuring methemoglobin levels in poisoned patients. This innovation improved antidote administration, reduced mortality from propanil poisoning, and was incorporated into Sri Lankan national poisoning management guidelines. The test is now used in hospitals across Sri Lanka and has been referenced in Australian toxicology guidance.
 
-Key Achievements
+## Key Achievements
+
 Developed quantitative bedside methemoglobin colour chart
 Reduced propanil poisoning mortality from 9.5% to 3.1%
 Incorporated into national clinical guidelines
