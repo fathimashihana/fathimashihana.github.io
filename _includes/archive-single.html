@@ -52,6 +52,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+  <h2 class="archive__item-title" itemprop="headline">
+  {{ title }}
+</h2>  
     
 {% if post.citation %}
   <p style="margin-bottom:4px;">{{ post.citation | replace: 'Fathima Shihana', '<strong>Fathima Shihana</strong>' }}</p>
