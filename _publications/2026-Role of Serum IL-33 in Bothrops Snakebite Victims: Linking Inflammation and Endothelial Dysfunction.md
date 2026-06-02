@@ -10,3 +10,4 @@ citation: 'Nicole Coelho Lopes et al. (2026). Role of Serum IL-33 in Bothrops Sn
 
 excerpt: 'Investigation of inflammatory biomarkers and endothelial dysfunction in snakebite victims.'
 ---
+This study investigated the role of serum IL-33 as a biomarker of inflammation and endothelial dysfunction in Bothrops snakebite victims.
