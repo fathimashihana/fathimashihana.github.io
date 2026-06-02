@@ -74,3 +74,29 @@
 .archive__item .fa {
     font-size: 0.8rem !important;
 }
+.pub-title {
+  font-size: 1.25rem !important;
+  line-height: 1.25 !important;
+  margin-bottom: 8px !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  color: #444 !important;
+}
+
+.pub-citation {
+  font-size: 0.9rem !important;
+  line-height: 1.45 !important;
+  margin-bottom: 5px !important;
+}
+
+.pub-icons {
+  margin-top: 2px !important;
+}
+
+.pub-icons a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  margin-right: 8px;
+}
