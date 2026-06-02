@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.archive__item-title a {
+  text-decoration: none !important;
+}
+
+.archive__item-title a:hover {
+  text-decoration: none !important;
+}
