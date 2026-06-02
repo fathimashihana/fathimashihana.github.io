@@ -54,7 +54,7 @@
     
     
 {% if post.citation %}
-  <p style="margin-bottom:4px;">{{ post.citation }}</p>
+  <p style="margin-bottom:4px;">{{ post.citation | replace: 'Fathima Shihana', '<strong>Fathima Shihana</strong>' }}</p>
 {% endif %}
 
 <p style="margin-top:2px;">
