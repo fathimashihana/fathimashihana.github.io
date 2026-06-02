@@ -1,7 +1,7 @@
 ---
 title: "Bedside Methemoglobin Diagnostic Test"
 collection: portfolio
-permalink: /projects/bedside-methemoglobin-test/
+permalink: /portfolio/bedside-methemoglobin-test/
 excerpt: "Development of a low-cost bedside diagnostic tool for methemoglobinemia."
 ---
 
