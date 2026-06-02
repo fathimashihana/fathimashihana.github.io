@@ -18,7 +18,7 @@ main:
     url: /portfolio/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /talks/
 
   - title: "Awards"
     url: /awards/
