@@ -1,10 +1,8 @@
 ---
+layout: archive
 title: "Visiting Lecturer"
-collection: teaching
-type: "Undergraduate Teaching"
-permalink: /teaching/visiting-lecturer-pharmacy/
-venue: "Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka"
-date: 2011-01-01
+permalink: /teaching/
+author_profile: true
 ---
 
 ## Position
