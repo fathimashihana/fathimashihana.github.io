@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "Visiting Lecturer"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Position
-
-**Visiting Lecturer**  
-Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka
-
-**Period:** 2011 – 2013
+# Visiting Lecturer
+**Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka**  
+**2011–2013**
 
 ## Overview
 
