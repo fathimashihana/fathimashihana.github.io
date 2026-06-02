@@ -23,27 +23,27 @@
 
     {% if post.collection == 'publications' %}
 
-      <h2 class="archive__item-title" itemprop="headline">
+      <h2 class="archive__item-title pub-title" itemprop="headline">
         {{ title }}
       </h2>
 
       {% if post.citation %}
-        <p style="margin-bottom:4px;">
+        <p class="pub-citation">
           {{ post.citation | replace: 'Fathima Shihana', '<strong>Fathima Shihana</strong>' }}
         </p>
       {% endif %}
 
-      <p style="margin-top:2px;">
+      <p class="pub-icons">
         {% if post.paperurl %}
-          <a href="{{ post.paperurl }}"><i class="fa fa-link"></i></a>
+          <a href="{{ post.paperurl }}" target="_blank"><i class="fa fa-link"></i></a>
         {% endif %}
 
         {% if post.pdfurl %}
-          <a href="{{ post.pdfurl }}"><i class="fa fa-file-pdf-o"></i></a>
+          <a href="{{ post.pdfurl }}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
         {% endif %}
 
         {% if post.githuburl %}
-          <a href="{{ post.githuburl }}"><i class="fa fa-code"></i></a>
+          <a href="{{ post.githuburl }}" target="_blank"><i class="fa fa-code"></i></a>
         {% endif %}
       </p>
 
@@ -52,10 +52,6 @@
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
           <a href="{{ post.link }}">{{ title }}</a>
-          {{ title }}
-            <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-            <span class="sr-only">Permalink</span>
-          </a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
@@ -71,7 +67,10 @@
         <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
       {% elsif post.date %}
         <p class="page__date">
-          <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+          <strong>
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+          </strong>
           <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
             {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
           </time>
