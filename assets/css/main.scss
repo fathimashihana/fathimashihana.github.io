@@ -48,3 +48,17 @@
 .archive__item-title a:hover {
   text-decoration: none !important;
 }
+/* Publication title size */
+.archive__item-title {
+    font-size: 1.5rem !important;
+    line-height: 1.2 !important;
+    margin-bottom: 10px !important;
+}
+
+/* Remove underline on hover */
+.archive__item-title a,
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
