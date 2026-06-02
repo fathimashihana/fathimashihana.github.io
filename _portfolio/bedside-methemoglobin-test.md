@@ -1,9 +1,9 @@
 ---
-
 title: "Bedside Methemoglobin Diagnostic Test"
-excerpt: "Development of a low-cost bedside diagnostic tool for methemoglobinemia."
 collection: portfolio
----------------------
+permalink: /portfolio/bedside-methemoglobin-test/
+excerpt: "Development of a low-cost bedside diagnostic tool for methemoglobinemia."
+---
 
 ## Overview
 
