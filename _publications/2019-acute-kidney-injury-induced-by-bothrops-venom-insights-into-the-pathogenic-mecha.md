@@ -8,6 +8,6 @@ venue: "Toxins"
 paperurl: ""
 pdfurl: "/files/acute-kidney-injury-induced-by-bothrops-venom-insights-into-the-pathogenic-mecha.pdf"
 pubmedurl: "https://pubmed.ncbi.nlm.nih.gov/?term=Acute+kidney+injury+induced+by+Bothrops+venom:+insights+into+the+pathogenic+mechanisms"
-citation: "Polianna Lemos Moura Moreira Albuquerque, Geraldo Bezerra da Silva Junior, Gdayllon Cavalcante Meneses, Alice Maria Costa Martins, Danya Bandeira Lima, Jacques Raubenheimer, **Fathima Shihana**, Nicholas Buckley, Elizabeth De Francesco Daher. \"Acute kidney injury induced by Bothrops venom: insights into the pathogenic mechanisms.\" Toxins 11(3):148. 2019"
+citation: "Polianna Lemos Moura Moreira Albuquerque, Geraldo Bezerra da Silva Junior, Gdayllon Cavalcante Meneses, Alice Maria Costa Martins, Danya Bandeira Lima, Jacques Raubenheimer, Fathima Shihana, Nicholas Buckley, Elizabeth De Francesco Daher. \"Acute kidney injury induced by Bothrops venom: insights into the pathogenic mechanisms.\" Toxins 11(3):148. 2019"
 ---
 
