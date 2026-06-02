@@ -8,6 +8,6 @@ venue: "Tropical Nephrology"
 paperurl: ""
 pdfurl: "/files/toxic-acute-kidney-injury.pdf"
 pubmedurl: "https://pubmed.ncbi.nlm.nih.gov/?term=Toxic+acute+kidney+injury"
-citation: "Polianna Lemos Moura Moreira Albuquerque, **Fathima Shihana**. \"Toxic acute kidney injury.\" Tropical Nephrology:47--65. 2020"
+citation: "Polianna Lemos Moura Moreira Albuquerque, Fathima Shihana. \"Toxic acute kidney injury.\" Tropical Nephrology:47--65. 2020"
 ---
 
