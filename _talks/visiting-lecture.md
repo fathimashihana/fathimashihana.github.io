@@ -1,8 +1,8 @@
 ---
-title: "visiting-lecturer"
+title: "Visiting Lecturer"
 collection: talks
 permalink: /teaching/visiting-lecturer/
-excerpt: "visiting-lecture"
+
 ---
 # Visiting Lecturer
 **Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka**  
