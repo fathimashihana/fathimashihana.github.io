@@ -2,14 +2,8 @@
 title: "Research Mentoring & Supervision"
 collection: talks
 permalink: /teaching/research-mentoring-and-supervision/
----
----
-
-layout: archive
-title: "Research Mentoring & Supervision"
-permalink: /teaching/research-mentoring-supervision/
 author_profile: true
---------------------
+---
 
 # Research Mentoring & Supervision
 
