@@ -5,7 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-### SCHOLARSHIPS AND AWARDS
 
 **2022** &nbsp;&nbsp; Centenary Institute Travel Award -$3000
 
