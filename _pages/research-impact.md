@@ -5,7 +5,6 @@ permalink: /research-impact/
 author_profile: true
 ---
 
-# Research Impact
 
 My research has focused on translational clinical toxicology, biomarker discovery, molecular diagnostics, and experimental disease modelling. Through multidisciplinary collaborations across Australia and Sri Lanka, my work has contributed to improving patient outcomes in poisoning, snakebite envenoming, acute kidney injury, liver disease, and public health. A key strength of my research has been translating laboratory discoveries into practical clinical applications, particularly in resource-limited healthcare settings.
 
