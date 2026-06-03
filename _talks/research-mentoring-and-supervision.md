@@ -1,7 +1,7 @@
 ---
 title: "Research Mentoring & Supervision"
 collection: talks
-permalink: /teaching/research-mentoring-and-supervision/
+permalink: /talks/research-mentoring-and-supervision/
 ---
 
 ## Overview
