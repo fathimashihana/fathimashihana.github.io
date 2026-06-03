@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Teaching and Supervision"
-permalink: /talks/
+permalink: /teaching/
 author_profile: true
 ---
 
-## [Visiting Lecturer](/teaching/visiting-lecturer/)
+## [Visiting Lecturer](/talks/visiting-lecturer/)
 
 Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka  
 **2011–2013**
 
-## [Research Mentoring & Supervision](/teaching/research-mentoring-supervision/)
+## [Research Mentoring & Supervision](/talks/research-mentoring-supervision/)
