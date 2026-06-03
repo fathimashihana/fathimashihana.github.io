@@ -5,8 +5,6 @@ permalink: /teaching/research-mentoring-and-supervision/
 author_profile: true
 ---
 
-# Research Mentoring & Supervision
-
 ## Overview
 
 Throughout my academic and research career, I have actively mentored undergraduate and postgraduate students, research assistants, and laboratory personnel across toxicology, biomarker discovery, molecular biology, and translational medicine. My supervision experience spans honours projects, MPhil and PhD mentoring, summer research internships, and laboratory staff training. Many trainees have progressed to successful careers as Scientific Officers, Research Assistants, and postgraduate researchers in academia and healthcare institutions.
