@@ -157,4 +157,11 @@
 .masthead__menu-item {
     font-size: 0.9rem !important;
 }
+.greedy-nav .visible-links li {
+    margin-right: 0 !important;
+}
 
+.greedy-nav .visible-links a {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+}
