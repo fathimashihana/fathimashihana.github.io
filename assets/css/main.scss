@@ -103,3 +103,54 @@
 .presentations-page strong {
     font-weight: 700;
 }
+/* ==============================
+   Custom page typography
+   ============================== */
+
+/* Reduce individual page title size */
+.page__title {
+  font-size: 1.7rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.6rem !important;
+}
+
+/* Reduce body text size */
+.page__content,
+.page__content p,
+.page__content li {
+  font-size: 0.95rem !important;
+  line-height: 1.55 !important;
+}
+
+/* Reduce section heading sizes */
+.page__content h2 {
+  font-size: 1.35rem !important;
+  line-height: 1.25 !important;
+  margin-top: 1.4rem !important;
+  margin-bottom: 0.6rem !important;
+}
+
+.page__content h3 {
+  font-size: 1.1rem !important;
+  line-height: 1.25 !important;
+}
+
+/* Reduce list spacing */
+.page__content ul {
+  margin-top: 0.4rem !important;
+}
+
+.page__content li {
+  margin-bottom: 0.25rem !important;
+}
+
+/* Hide unwanted 1900 date/meta text */
+.page__meta,
+.page__date {
+  display: none !important;
+}
+
+/* Make teaching pages cleaner */
+.page__content strong {
+  font-weight: 700 !important;
+}
