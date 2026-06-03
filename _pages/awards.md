@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**2022** &nbsp;&nbsp; Centenary Institute Travel Award -$3000
+**2022** &nbsp;&nbsp; Centenary Institute Travel Award -$3000. 
 
 **2020** &nbsp;&nbsp; Best Oral Presentation Award – Centenary Institute Showcase
 **2020** &nbsp;&nbsp; Received Centenary award for publishing in high impact factor journal -$1000 awarded in Q2 for publication Shihana…Seth D, Arch Toxicol 2020
