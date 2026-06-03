@@ -4,7 +4,7 @@ collection: talks
 permalink: /teaching/visiting-lecturer/
 
 ---
-# Visiting Lecturer
+
 **Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka**  
 **2011–2013**
 
