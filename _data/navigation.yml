@@ -10,7 +10,10 @@
 main:
   - title: "About"
     url: /
-
+    
+  - title: "Research Impact"
+    url: /research-impact/
+    
   - title: "Publications"
     url: /publications/
 
