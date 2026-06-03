@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching and Supervision"
-permalink: /teaching/
+permalink: /talks/
 author_profile: true
 ---
 
