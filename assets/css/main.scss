@@ -157,3 +157,13 @@
 .masthead__menu-item {
     font-size: 0.9rem !important;
 }
+/* Reduce spacing between navigation menu items */
+.masthead__menu-item {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+.greedy-nav a {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
