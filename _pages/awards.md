@@ -24,7 +24,7 @@ author_profile: true
 **2010** &nbsp;&nbsp; Presidential Award for Scientific Publication – Government of Sri Lanka  
 **2010** &nbsp;&nbsp; MPhil Funding Awarded by South Asian Clinical Toxicology Research Collaboration  
 **2010** &nbsp;&nbsp; APAMT Travel Scholarship – 9th Congress APAMT, Vietnam  
-**2010** &nbsp;&nbsp; International Travel Award – North American Congress of Clinical Toxicology (NACCT), Canada  
-**2010** &nbsp;&nbsp; APAMT Travel Scholarship – 7th Congress APAMT, India  
 
+**2008** &nbsp;&nbsp; APAMT Travel Scholarship – 7th Congress APAMT, India  
+**2008** &nbsp;&nbsp; International Travel Award – North American Congress of Clinical Toxicology (NACCT), Canada  
 **2007** &nbsp;&nbsp; APAMT Travel Scholarship – 6th Congress APAMT, Thailand
