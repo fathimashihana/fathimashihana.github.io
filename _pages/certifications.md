@@ -5,7 +5,7 @@ permalink: /certifications/
 author_profile: true
 ---
 
-
+---
 Applied Data Analytics – TAFE NSW (2025)📄 [PDF](/files/applied-data-analytics.pdf)
 
 Data Analytics Essentials – TAFE NSW (2025)📄 [PDF](/files/data-analytics-essentials.pdf)
