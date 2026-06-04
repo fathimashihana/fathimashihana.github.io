@@ -5,7 +5,6 @@ permalink: /certifications/
 author_profile: true
 ---
 
-# Certifications & Professional Training
 
 | Certification | Certificate |
 |--------------|-------------|
