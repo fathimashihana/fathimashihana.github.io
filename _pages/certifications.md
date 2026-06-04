@@ -13,7 +13,7 @@ Power BI for Data Analytics – TAFE NSW (2025)📄 [PDF](/files/certificates/po
 
 Python for Data Analytics – TAFE NSW (2026)📄 [PDF](/files/certificates/python-data-analytics.pdf)
 
-Good Clinical Practice (GCP) Training📄 [PDF](/files/certificates/gcp-training.pdf)
+Good Clinical Practice (GCP) Training📄 [PDF](/files/certificates/ICH-GCP-Training-GCP.pdf)
 
 Confocal Microscopy Training📄 [PDF](/files/certificates/confocal-microscopy.pdf)
 
