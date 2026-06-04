@@ -1,17 +1,24 @@
 ---
 layout: archive
-title: "Certifications"
+title: "Certifications & Professional Training"
 permalink: /certifications/
 author_profile: true
 ---
 
-## Certifications & Professional Training
+# Certifications & Professional Training
 
+## Certificates
+
+- Institute of Applied Technology
+- Applied Data Analytics – TAFE NSW, 2025
+- Data Analytics Essentials – TAFE NSW, 2025
+- Power BI for Data Analytics – TAFE NSW, 2025
+- Python for Data Analytics – TAFE NSW, 2026
 - Good Clinical Practice (GCP) Training
-- Data Analytics Essentials
-- Power BI Workshops
 - Confocal Microscopy Training
-- Laboratory Safety and Compliance Training
 - Molecular Biology and RT-qPCR Training
 - Bioinformatics and Transcriptomics Training
-- Clinical Toxicology Research Training
+
+## Certificate PDF
+
+[Download Certifications PDF](/files/certifications.pdf)
