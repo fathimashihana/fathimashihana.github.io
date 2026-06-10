@@ -71,16 +71,11 @@ Skills
    * Conference presentations and public speaking
    * Multidisciplinary research collaboration
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Awards
 ======
   <ul>{% for post in site.awards reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -100,6 +95,12 @@ Teaching
   * Drug Design and Development
   * Structure–Activity Relationships (SAR)
   
-Service and leadership
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  Service and leadership
 ======
 * Currently signed in to 43 different slack teams
