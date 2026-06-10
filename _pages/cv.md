@@ -39,6 +39,16 @@ Work experience
   * Oversaw general laboratory housekeeping, including cleaning, maintenance, and calibration of lab equipment.
   * Maintained laboratory and storage facilities according to national safety and quality standards.
   * Managed inventory, ordering, and tracking of lab supplies to ensure uninterrupted workflow.
+ 
+ * Research Assistant 09/2010 - 05/2013 South Asian Clinical Toxicology Research Collaboration, Sri Lanka
+  * Duties included:
+  * Led laboratory operations in the Renal Biomarker Program as team leader.
+  * Supervised three honours students, mentored two MPhil candidates, and trained seven laboratory analysts.
+  * Handled and processed clinical samples while maintaining strict adherence to regulatory and ethical compliance.
+  * Ensured accurate documentation and reporting of test results, and provided detailed analyses to Principal Investigators.
+  * Oversaw general laboratory housekeeping, including cleaning, maintenance, and calibration of lab equipment.
+  * Maintained laboratory and storage facilities according to national safety and quality standards.
+  * Managed inventory, ordering, and tracking of lab supplies to ensure uninterrupted workflow.
   
 Skills
 ======
