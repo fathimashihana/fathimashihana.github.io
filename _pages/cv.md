@@ -55,21 +55,22 @@ Work experience
   
 Skills
 ======
-   * Zebrafish disease modelling (alcoholic & nonalcoholic fatty liver)
-   * CRISPR-Cas9 gene editing
-   * MicroRNA biomarker analysis
-   * Fluorescence and confocal microscopy
-   * Flow cytometry
-   * ELISA and spectrophotometry
-   * RT-qPCR and high-throughput miRNA analysis
-   * Human sample processing and pharmacokinetics
-   * Toxicology and nephrotoxicity research; clinical data collection and analysis
-   * Scientific writing and peer-reviewed publication
-   * Grant writing and funding acquisition
-   * Laboratory and project management
-   * Student supervision and mentorship; adherence to animal ethics and biosafety protocols
-   * Conference presentations and public speaking
-   * Multidisciplinary research collaboration
+   * Areas of Expertise & Skills
+    * Zebrafish disease modelling (alcoholic & nonalcoholic fatty liver)
+    * CRISPR-Cas9 gene editing
+    * MicroRNA biomarker analysis
+    * Fluorescence and confocal microscopy
+    * Flow cytometry
+    * ELISA and spectrophotometry
+    * RT-qPCR and high-throughput miRNA analysis
+    * Human sample processing and pharmacokinetics
+    * Toxicology and nephrotoxicity research; clinical data collection and analysis
+    * Scientific writing and peer-reviewed publication
+    * Grant writing and funding acquisition
+    * Laboratory and project management
+    * Student supervision and mentorship; adherence to animal ethics and biosafety protocols
+    * Conference presentations and public speaking
+    * Multidisciplinary research collaboration
 
   
 Awards
