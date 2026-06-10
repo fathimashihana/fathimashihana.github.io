@@ -77,9 +77,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.awards reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
