@@ -76,9 +76,20 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka 2011–2013
+ * Responsibilities
+ * Delivered Medicinal Chemistry lectures for third- and final-year undergraduate pharmacy students.
+ * Prepared lecture materials, tutorials, and learning resources.
+ * Assessed assignments, examinations, and coursework.
+ * Provided academic guidance and mentoring to students.
+ * Facilitated tutorials and interactive learning activities.
+ * Invigilated examinations and maintained assessment standards.
+
+* Subjects Taught
+  * Medicinal Chemistry
+  * Pharmaceutical Chemistry
+  * Drug Design and Development
+  * Structure–Activity Relationships (SAR)
   
 Service and leadership
 ======
