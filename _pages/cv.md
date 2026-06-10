@@ -55,7 +55,7 @@ Work experience
   
 Skills
 ======
-   * Areas of Expertise & Skills
+  * Areas of Expertise & Skills
     * Zebrafish disease modelling (alcoholic & nonalcoholic fatty liver)
     * CRISPR-Cas9 gene editing
     * MicroRNA biomarker analysis
