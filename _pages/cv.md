@@ -17,12 +17,13 @@ Work experience
 ======
 * Post Doctoral Research (Temporary Full-time)- 2021 - 2025
   * Centenary Institute of Cancer Medicine & Cell Biology - The University of Sydney, Australia
-  * Duties include: * Use well-established clinical models for investigating alcoholic and non-alcoholic fatty liver diseases
-                     * Imaging zebrafish using fluorescence and confocal microscopy
-                     * Perform laboratory experiments using the high-fat diet-induced Zebrafish model for investigating nonalcoholic fatty liver
-                     * Perform transcriptomics analyses in the Zebrafish model to identify genes involved in alcoholic and nonalcoholic fatty liver models and identify mutant genes
-                     * Draft manuscripts for publications of the findings in globally renowned journals
-                     * Assisted the principal investigator in finalising manuscripts for three grants to secure extra funding for research
+  * Duties include:
+  * Use well-established clinical models for investigating alcoholic and non-alcoholic fatty liver diseases
+  * Imaging zebrafish using fluorescence and confocal microscopy
+  * Perform laboratory experiments using the high-fat diet-induced Zebrafish model for investigating nonalcoholic fatty liver
+  * Perform transcriptomics analyses in the Zebrafish model to identify genes involved in alcoholic and nonalcoholic fatty liver models and identify mutant genes
+  * Draft manuscripts for publications of the findings in globally renowned journals
+  * Assisted the principal investigator in finalising manuscripts for three grants to secure extra funding for research
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
