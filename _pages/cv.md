@@ -15,9 +15,7 @@ Education
 
 Work experience
 ======
-* Post Doctoral Research (Temporary Full-time)- 2021 - 2025
-======
-  Centenary Institute of Cancer Medicine & Cell Biology - The University of Sydney, Australia
+* Post Doctoral Research (Temporary Full-time)- 2021 - 2025 | Centenary Institute of Cancer Medicine & Cell Biology - The University of Sydney, Australia
   * Duties include:
   * Use well-established clinical models for investigating alcoholic and non-alcoholic fatty liver diseases
   * Imaging zebrafish using fluorescence and confocal microscopy
