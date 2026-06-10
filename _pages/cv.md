@@ -24,17 +24,21 @@ Work experience
   * Draft manuscripts for publications of the findings in globally renowned journals
   * Assisted the principal investigator in finalising manuscripts for three grants to secure extra funding for research
   
-
-* Research Assistant (Temporary Full-time)- 02/2020 - 02/2021  Centenary Institute of Cancer Medicine & Cell Biology - The University of Sydney, Australia
+* Research Assistant (Temporary Full-time)- 02/2020 - 02/2021,  Centenary Institute of Cancer Medicine & Cell Biology - The University of Sydney, Australia
   * Duties included:
   * Developed CRISPR-Cas9 zebrafish models to investigate gene function in alcohol-induced liver injury, enabling the identification of key genetic contributors to hepatic damage.
   * Managed end-to-end project workflows, including experimental setup, data collection, statistical analysis, and reporting, ensuring rigorous and reproducible results.
   * Oversaw participant recruitment and ethics compliance, upholding institutional standards and research integrity across all study phases.
   
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Associate 05/2013 - 11/2016 South Asian Clinical Toxicology Research Collaboration, Sri Lanka
+  * Duties included:
+  * Led laboratory operations in the Renal Biomarker Program as team leader.
+  * Supervised three honours students, mentored two MPhil candidates, and trained seven laboratory analysts.
+  * Handled and processed clinical samples while maintaining strict adherence to regulatory and ethical compliance.
+  * Ensured accurate documentation and reporting of test results, and provided detailed analyses to Principal Investigators.
+  * Oversaw general laboratory housekeeping, including cleaning, maintenance, and calibration of lab equipment.
+  * Maintained laboratory and storage facilities according to national safety and quality standards.
+  * Managed inventory, ordering, and tracking of lab supplies to ensure uninterrupted workflow.
   
 Skills
 ======
