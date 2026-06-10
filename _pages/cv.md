@@ -55,12 +55,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+   * Zebrafish disease modelling (alcoholic & nonalcoholic fatty liver)
+   * CRISPR-Cas9 gene editing
+   * MicroRNA biomarker analysis
+   * Fluorescence and confocal microscopy
+   * Flow cytometry
+   * ELISA and spectrophotometry
+   * RT-qPCR and high-throughput miRNA analysis
+   * Human sample processing and pharmacokinetics
+   * Toxicology and nephrotoxicity research; clinical data collection and analysis
+   * Scientific writing and peer-reviewed publication
+   * Grant writing and funding acquisition
+   * Laboratory and project management
+   * Student supervision and mentorship; adherence to animal ethics and biosafety protocols
+   * Conference presentations and public speaking
+   * Multidisciplinary research collaboration
 
 Publications
 ======
@@ -78,12 +87,12 @@ Teaching
 ======
 * Department of Pharmacy, Faculty of Allied Health Sciences, University of Peradeniya, Sri Lanka 2011–2013
  * Responsibilities
- * Delivered Medicinal Chemistry lectures for third- and final-year undergraduate pharmacy students.
- * Prepared lecture materials, tutorials, and learning resources.
- * Assessed assignments, examinations, and coursework.
- * Provided academic guidance and mentoring to students.
- * Facilitated tutorials and interactive learning activities.
- * Invigilated examinations and maintained assessment standards.
+  * Delivered Medicinal Chemistry lectures for third- and final-year undergraduate pharmacy students.
+  * Prepared lecture materials, tutorials, and learning resources.
+  * Assessed assignments, examinations, and coursework.
+  * Provided academic guidance and mentoring to students.
+  * Facilitated tutorials and interactive learning activities.
+  * Invigilated examinations and maintained assessment standards.
 
 * Subjects Taught
   * Medicinal Chemistry
