@@ -10,7 +10,7 @@ author_profile: true
 You can view or download my academic CV and professional resume below.
 
 - [View Academic CV](/cv/)
-- [Download CV PDF](/files/Fathima-Shihana-CV.pdf)
+- [Download CV PDF](/files/fathima-shihana-cv.pdf)
 
 ## Certifications
 
